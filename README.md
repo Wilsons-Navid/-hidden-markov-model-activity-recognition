@@ -38,9 +38,7 @@ Hidden Markov Models/
 |   |-- fig7_test_decoded.png
 |
 |-- hmm_activity_recognition_v2.ipynb      # Main notebook (HMM implementation)
-|-- generate_report.py                     # Script to generate .docx report
 |-- HMM_Activity_Recognition_Report.docx   # Final project report
-|-- rubric.txt                             # Project rubric/requirements
 |-- README.md                              # This file
 ```
 
@@ -278,8 +276,8 @@ pip install numpy pandas matplotlib seaborn scipy scikit-learn
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/YOUR_USERNAME/Hidden-Markov-Models.git
-cd Hidden-Markov-Models
+git clone https://github.com/Wilsons-Navid/-hidden-markov-model-activity-recognition.git
+cd -hidden-markov-model-activity-recognition
 ```
 
 2. Launch Jupyter Notebook:
