@@ -37,8 +37,9 @@ Hidden Markov Models/
 |   |-- fig6_confusion_matrix.png
 |   |-- fig7_test_decoded.png
 |
-|-- hmm_activity_recognition_v2.ipynb      # Main notebook (HMM implementation)
+|-- hmm_activity_recognition.ipynb      # Main notebook (HMM implementation)
 |-- HMM_Activity_Recognition_Report.docx   # Final project report
+|-- Team Task Sheet...pdf                  # Task allocation sheet (PDF)
 |-- README.md                              # This file
 ```
 
@@ -282,7 +283,7 @@ cd -hidden-markov-model-activity-recognition
 
 2. Launch Jupyter Notebook:
 ```bash
-jupyter notebook hmm_activity_recognition_v2.ipynb
+jupyter notebook hmm_activity_recognition.ipynb
 ```
 
 3. Run all cells sequentially (no GPU required, runs in ~30 seconds on CPU)
@@ -295,22 +296,6 @@ python generate_report.py
 ```
 
 This generates `HMM_Activity_Recognition_Report.docx` with all figures embedded.
-
----
-
-## Team Contributions
-
-| Task | Member 1 | Member 2 |
-|:---|:---:|:---:|
-| Data Collection (Phone 1 - STK-L22) | X | |
-| Data Collection (Phone 2 - Infinix X6855) | | X |
-| Data Preprocessing & Cleaning | X | X |
-| Feature Extraction | X | |
-| HMM Implementation (Baum-Welch) | | X |
-| HMM Implementation (Viterbi) | X | |
-| Model Evaluation & Testing | | X |
-| Report Writing | X | X |
-| Notebook Documentation | X | X |
 
 ---
 

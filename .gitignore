@@ -1,0 +1,5 @@
+.claude/
+Rubric-hmm.docx
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
